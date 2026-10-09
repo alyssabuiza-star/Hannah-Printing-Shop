@@ -1,6 +1,6 @@
 Hannah Printing Shop – Activity 7 Architecture
 
-This folder contains the Mermaid source files for the 11 required architectural views for CC 106b Unit 3 Activity 7.
+This folder contains the Mermaid source files for the 11 required architectural views needed for Hannah Printing Shop.
 
 Diagram Index
 
