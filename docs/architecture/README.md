@@ -4,11 +4,12 @@ This folder contains the Mermaid source files for the 11 required architectural 
 
 Diagram Index
 
+
 # Diagram File
 
 1 C4 System Context context.md
 
-2| C4 Container containers.md"
+2 C4 Container containers.md"
 
 3 UML Use Case use-cases.md
 
@@ -45,4 +46,4 @@ Before Submission
 
 AI-Use Disclosure Draft
 
-AI assistance was used to draft and organize Mermaid diagram source based on the team's existing Activity 3, Activity 4, and Hannah Printing Shop architecture materials. The team must verify every actor, feature, relationship, status, protocol, and database field against its MVP and repository, then record its own contribution and review work in the course form.
+AI assistance was used to draft and organize Mermaid diagram source for Hannah Printing Shop architecture.
