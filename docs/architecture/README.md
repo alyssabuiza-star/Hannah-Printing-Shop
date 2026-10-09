@@ -5,16 +5,26 @@ This folder contains the Mermaid source files for the 11 required architectural 
 Diagram Index
 
 #| Diagram| File
+
 1| C4 System Context| "context.md"
+
 2| C4 Container| "containers.md"
+
 3| UML Use Case| "use-cases.md"
+
 4| UML Activity| "activity.md"
+
 5| UML Sequence| "sequence.md"
+
 6| UML Class| "class.md"
+
 7| UML State Machine| "state-machine.md"
+
 8| UML Package| "packages.md"
+
 9| UML Component| "components.md"
 10| UML Deployment – Provisional| "deployment.md"
+
 11| Draft ERD| "erd.md"
 
 System Boundary and MVP Decisions
